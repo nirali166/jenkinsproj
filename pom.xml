@@ -41,7 +41,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/amitX241/Spring_Starter</url>
+            <url>https://maven.pkg.github.com/nirali166/jenkinsproj</url>
         </repository>
     	</distributionManagement>
 
